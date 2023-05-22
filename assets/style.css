@@ -8,7 +8,7 @@ font-family: 'Aref Ruqaa', serif; */
     padding: 0;
 }
 body {
-    width: 1920px;
+    min-width: 1920px;
 }
 /* ===== CSS Reset End ===== */
 
